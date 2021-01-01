@@ -1,0 +1,7 @@
+tasks:
+  - init: 'echo "TODO: Replace with init/build command"'
+    command: 'echo "TODO: Replace with command to start project"'
+
+vscode:
+  extensions:
+    - stkb.rewrap@1.13.0:yEx8nRSXlfXAHqsbkTJpdA==
